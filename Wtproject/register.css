@@ -1,0 +1,27 @@
+.h{
+      color:white;
+      background:aqua;
+      padding-top:20px;
+      padding-bottom:20px;
+      text-align:center;
+}
+a,li{
+   display:inline;
+   padding:10px;
+   text-decoration:none;
+}
+.ha{
+   margin-top:20px;
+   margin-left:50px;
+   padding-right:600px;
+   padding-top:100px;
+   padding-left:200px;
+  
+   
+}
+form{
+    margin-right:500px;
+    margin-left:300px;
+    //text-align:center;
+}
+
